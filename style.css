@@ -1,0 +1,522 @@
+#first {
+  /* Frame 2087325624 */
+position: absolute;
+width: 1600px;
+height: 5181px;
+
+top: 120px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+gap: 80;
+padding: 0px;
+
+
+}
+
+#first .container{
+    /* Frame 4 */
+position: static;
+width: 1280px;
+height: 560px;
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+gap: 64;
+padding: 80px 100px 80px 100px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 80px 0px;
+border-radius: 24px;
+
+background: rgb(198, 228, 214);
+
+}
+
+
+
+.subtitle{
+    color: rgba(14, 14, 14, 0.5);
+font-family: Fira Sans;
+font-size: 24px;
+font-weight: 500;
+line-height: 29px;
+letter-spacing: 0%;
+text-align: left;
+}
+.heading{
+    color: rgb(14, 14, 14);
+    font-family: Fira Sans;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 67px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.button{
+    border-radius: 8px;
+
+    background: rgb(0, 106, 80);
+}
+.container.img{
+    /* Group */
+position: absolute;
+width: 474.03px;
+height: 329.21px;
+left: 157.37%;
+right: -157.37%;
+top: 20%;
+bottom: -2.3%;
+}
+
+#second{
+/* Frame 2087325501 */
+position: static;
+width: 1280px;
+height: 324px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+gap: 32;
+padding: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 80px 0px;
+
+}
+#second .heading1{
+    /* Pillars of "Bangladesh 2.0" */
+position: static;
+width: 1280px;
+height: 48px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+gap: 32;
+padding: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+margin: 32px 0px;
+color: rgb(14, 14, 14);
+font-family: Fira Sans;
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0%;
+text-align: left;
+}
+
+.cards {
+    /* Frame 2087325495 */
+position: static;
+width: 302px;
+height: 244px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+gap: 24;
+padding: 24px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 24px;
+box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+
+background: rgb(255, 255, 255);
+}
+.Mcards{
+    /* Frame 2087325500 */
+position: static;
+width: 1280px;
+height: 244px;
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-start;
+align-items: center;
+gap: 24;
+padding: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+margin: 24px 0px;
+}
+
+
+
+
+
+
+
+
+#third .heading p{
+    /* Bangladesh 2.0 aims to redefine the nation’s trajectory by embracing cutting-edge technology, promoting inclusive growth, and ensuring sustainability. With initiatives in renewable energy, digital transformation, and robust infrastructure, the country is set to become a global model of development. */
+position: static;
+width: 1280px;
+height: 48px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+gap: 12;
+padding: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+margin: 12px 0px;
+color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+}
+.card{
+   /* Frame 2087325500 */
+position: static;
+width: 1280px;
+height: 325px;
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-start;
+align-items: center;
+gap: 24;
+padding: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+margin: 32px 0px;
+
+}
+.card1{
+    /* Frame 2087325495 */
+position: static;
+width: 410.67px;
+height: 325px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+gap: 24;
+padding: 32px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+margin: 0px 24px;
+box-sizing: border-box;
+border-radius: 16px;
+
+background: rgba(84, 144, 245, 0.2);
+}
+.card2{
+    /* Frame 2087325499 */
+position: static;
+width: 410.67px;
+height: 325px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 32px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 1;
+margin: 0px 24px;
+box-sizing: border-box;
+border-radius: 16px;
+
+background: rgb(198, 228, 214);
+}
+.card3{
+    /* Frame 2087325500 */
+position: static;
+width: 410.67px;
+height: 325px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 24px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 1;
+margin: 0px 24px;
+box-sizing: border-box;
+border-radius: 16px;
+
+background: rgb(247, 235, 207);
+}
+.yunus{
+    /* Frame 2087325495 */
+position: static;
+width: 1280px;
+height: 256px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+gap: 24;
+padding: 48px 24px 48px 24px;
+
+
+/* Inside Auto Layout */
+flex: none;                                                     
+order: 0;
+flex-grow: 1;
+margin: 0px 24px;
+box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+
+background: rgb(255, 255, 255);
+}
+
+table {
+    
+    border: 2px solid rgba(14, 14, 14, 0.15);
+    background: rgba(255, 255, 255, 0.1);
+    
+    table-layout: 1216px 92px;
+  
+}
+.ff{
+    background-color: rgb(198, 228, 214);
+}
+tr{
+    border: 2px solid black;
+    padding: 24px;
+    gap: 25px;
+    
+}
+td{
+    padding: 40px 50px;
+    
+    
+}.SB{
+    /* Frame 2087325509 */
+position: static;
+width: 1280px;
+height: 402px;
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-start;
+align-items: center;
+gap: 32;
+padding: 48px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+margin: 24px 0px;
+border-radius: 24px;
+
+background: rgb(178, 175, 175);
+}
+.BS{
+    /* Frame 2087325509 */
+position: static;
+width: 1280px;
+height: 402px;
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-start;
+align-items: center;
+gap: 32;
+padding: 48px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+margin: 24px 0px;
+border-radius: 24px;
+
+background: rgb(178, 175, 175);
+}
+.pic{
+
+
+    
+position: static;
+width: 408px;
+height: 306px;
+
+margin: 0px 32px;
+border-radius: 24px;
+
+
+}
+.pasg{
+    position: static;
+width: 1280px;
+height: 402px;
+align-items: center;
+gap: 32;
+padding: 48px;
+margin: 24px 0px;
+
+
+}
+.taka{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.taka div{
+   /* Frame 2087325513 */
+position: static;
+width: 240px;
+height: 128px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+gap: 24;
+padding: 40px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 24px;
+box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+
+background: rgb(255, 255, 255);
+}
+.text{
+    /* Frame 2087325514 */
+position: static;
+width: 1032px;
+height: 64px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+gap: 24;
+padding: 20px 40px 20px 40px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+margin: 32px 0px;
+box-sizing: border-box;
+border-bottom: 1px solid rgba(14, 14, 14, 0.15);
+background: rgb(255, 255, 255);
+
+}
+.dtn{
+    /* Frame 2 */
+position: static;
+width: 151px;
+height: 56px;
+
+box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.1);
+border-radius: 8px;
+
+background: rgb(0, 106, 80);
+justify-content: center;
+
+}
+.btnc button{
+    align-items: center;
+}
+.ltext{
+    display: flex;
+    flex-direction: row;
+}
+
+.donate h1, .donate p {
+    text-align: center;
+    margin: 10px auto;
+}
+.donate{
+width: 1280px;
+height: 464px;
+gap: 32;
+}
+.taka{
+    margin-top: 40px;
+    font-size: 35px;
+}
+.text input{
+    width: 1032px;
+    height: 64px;
+    padding: 20px 40px 20px 40px;
+    box-sizing: border-box;
+border-bottom: 1px solid rgba(14, 14, 14, 0.15);
+background: rgb(255, 255, 255);
+
+}
